@@ -1,0 +1,41 @@
+.myclass>p{
+    font-weight: 500;
+}
+
+section>p{
+    color: rgb(29, 16, 16);
+}
+
+section>img{
+     border: 2px solid black;
+}
+
+h1{
+    font-size: 1.0em;
+}
+
+.dark{
+    background-color: #242424;
+    color: beige;
+}
+
+body{
+    background-color: gray;
+    /* margin: auto auto;
+     */
+     align-items: center;
+     text-align: center;
+}
+body>p{
+    text-align: left;
+}
+
+.yellow{
+    background-color: rgb(122, 122, 44);
+    color: #242424;
+    
+}
+
+#btnId2{
+    display: none;
+}
